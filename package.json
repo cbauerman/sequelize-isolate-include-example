@@ -1,0 +1,13 @@
+{
+  "name": "sequelize-isolate-include-example",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "start": "node main.js"
+  },
+  "dependencies": {
+    "bluebird": "^3.4.0",
+    "sequelize": "^3.23.3",
+    "sqlite3": "^3.1.4"
+  }
+}
