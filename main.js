@@ -62,7 +62,7 @@ sequelize.sync({ force: true }).then(function () {
             groupName: 'Group B',
             users: [
                 { name: 'Hannah' },
-                { name: 'Bob' }
+                { name: 'Ed' }
             ],
         }, {
             include: [
